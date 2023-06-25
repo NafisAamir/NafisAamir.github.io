@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a397190.css",
-    "main.js": "/static/js/main.c5d66882.js",
-    "static/media/blkgif.gif": "/static/media/blkgif.1fe55bff211914abd4aa.gif",
-    "static/media/MwendoAfrica.png": "/static/media/MwendoAfrica.2f696963d52ddb382c6e.png",
-    "static/media/portfolio.png": "/static/media/portfolio.876dc3669133433a7849.png",
-    "static/media/MD_NAFIS_AAMIR.pdf": "/static/media/MD_NAFIS_AAMIR.6e4925a50c7691b87595.pdf",
-    "static/media/KFC.png": "/static/media/KFC.1b6e7442a9d0f1c923ba.png",
-    "static/media/Nafis.jpeg": "/static/media/Nafis.f50fa4ea5c7b139a9d97.jpeg",
-    "index.html": "/index.html",
-    "main.1a397190.css.map": "/static/css/main.1a397190.css.map",
-    "main.c5d66882.js.map": "/static/js/main.c5d66882.js.map"
+    "main.css": "/NafisAamir.github.io/static/css/main.79f2d682.css",
+    "main.js": "/NafisAamir.github.io/static/js/main.2b092aba.js",
+    "static/media/blkgif.gif": "/NafisAamir.github.io/static/media/blkgif.1fe55bff211914abd4aa.gif",
+    "static/media/MwendoAfrica.png": "/NafisAamir.github.io/static/media/MwendoAfrica.2f696963d52ddb382c6e.png",
+    "static/media/portfolio.png": "/NafisAamir.github.io/static/media/portfolio.876dc3669133433a7849.png",
+    "static/media/MD_NAFIS_AAMIR.pdf": "/NafisAamir.github.io/static/media/MD_NAFIS_AAMIR.6e4925a50c7691b87595.pdf",
+    "static/media/KFC.png": "/NafisAamir.github.io/static/media/KFC.1b6e7442a9d0f1c923ba.png",
+    "static/media/Nafis.jpeg": "/NafisAamir.github.io/static/media/Nafis.f50fa4ea5c7b139a9d97.jpeg",
+    "index.html": "/NafisAamir.github.io/index.html",
+    "main.79f2d682.css.map": "/NafisAamir.github.io/static/css/main.79f2d682.css.map",
+    "main.2b092aba.js.map": "/NafisAamir.github.io/static/js/main.2b092aba.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a397190.css",
-    "static/js/main.c5d66882.js"
+    "static/css/main.79f2d682.css",
+    "static/js/main.2b092aba.js"
   ]
 }
