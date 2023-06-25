@@ -1,0 +1,50 @@
+.skills__container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.tools__container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.skill__card{
+    background: transparent(0, 0, 0);
+    border: 1px solid transparent;
+    border-radius: 2rem;
+    padding: 2rem;
+    text-align: center;
+    overflow: hidden;
+    transform: rotate(10deg);
+    transition: var(--transition);
+}
+.skill__card:hover{
+    background: black;
+    border-color: var(--color-primary-variant);
+    cursor: default;
+    transform: rotate(0);
+}
+
+@media screen and (max-width:1024px){
+    .skills__container{
+        grid-template-columns: repeat(3,1fr);
+        gap: 0;
+    }
+    
+}
+
+@media screen and (max-width:600px){
+    
+
+    .skills__container{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 1rem;
+    }
+    .tools__container{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 1rem;
+    }
+    
+    
+}
+
