@@ -47,7 +47,7 @@ const Contact=()=>{
 
             </div>
             
-            <div className="copyright" style={{display:"flex", justifyContent:"center"}}>
+            <div className="copyright" style={{display:"flex", justifyContent:"center",marginTop:"150px"}}>
           <a href="https://github.com/NafisAamir">
             <h1>Designed and built by Md Nafis Aamir{" "}</h1>
           </a>
