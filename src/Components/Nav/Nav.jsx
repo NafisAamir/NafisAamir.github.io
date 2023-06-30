@@ -8,14 +8,17 @@ import { useState } from "react";
 import './Nav.css'
 
 const Nav=()=>{
-    const [activeNav,setactiveNav]=useState('#')
+    const [activeNav,setactiveNav]=useState('#home')
     return (
         <div id="nav-menu">
-            <a href="#home" onClick={()=>{setactiveNav('#home')}} className={activeNav==='#home'?'active':''}><IoIosHome/></a>
-            <a href="#about"onClick={()=>{setactiveNav('#about')}} className={activeNav==='#about'?'active':''}><FaUser/></a>
-            <a href="#skills" onClick={()=>{setactiveNav('#skills')}} className={activeNav==='#skills'?'active':''}><GiSkills/></a>
-            <a href="#projects" onClick={()=>{setactiveNav('#projects')}} className={activeNav==='#projects'?'active':''}><BsFiles/></a>
-            <a href="#contact" onClick={()=>{setactiveNav('#contact')}} className={activeNav==='#contact'?'active':''}><FcBusinessContact/></a>
+            <a href="#home" onClick={() => { setactiveNav('#home') }} className={activeNav === '#home' ? 'nav-link home active' : 'nav-link home'}>
+  <IoIosHome />
+</a>
+
+            <a href="#about"onClick={()=>{setactiveNav('#about')}} className={activeNav==='#about'?'nav-link about active':''}><FaUser/></a>
+            <a href="#skills" onClick={()=>{setactiveNav('#skills')}} className={activeNav==='#skills'?'nav-link skills active':''}><GiSkills/></a>
+            <a href="#projects" onClick={()=>{setactiveNav('#projects')}} className={activeNav==='#projects'?'nav-link projects active':''}><BsFiles/></a>
+            <a href="#contact" onClick={()=>{setactiveNav('#contact')}} className={activeNav==='#contact'?'nav-link contact active':''}><FcBusinessContact/></a>
         </div>
     )
 }
