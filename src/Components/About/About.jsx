@@ -4,10 +4,13 @@ import Nafis from '../../resources/Nafis.jpeg'
 
 const About=()=>{
     return (
-        <section id='about'>
+        <section  id='about'>
             <h5>Get To Know</h5>
             <h2>About Me</h2>
 
+            <div className="about section sections">
+
+            </div>
             <div className='container about'>
                 <div className='about__me'>
                     <div className='about__me-image'>

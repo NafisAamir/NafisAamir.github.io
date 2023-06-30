@@ -20,7 +20,7 @@ import {SiNetlify} from 'react-icons/si'
 
 const Experience=()=>{
     return (
-        <section id='skills'>
+        <section className="sections" id='skills'>
             <h2>Skills</h2>
             <h5>The technologies i have been working with recently</h5>
             <div className='container skills__container'>
