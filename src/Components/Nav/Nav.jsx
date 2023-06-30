@@ -10,7 +10,7 @@ import './Nav.css'
 const Nav=()=>{
     const [activeNav,setactiveNav]=useState('#')
     return (
-        <div id="navbar">
+        <div id="nav-menu">
             <a href="#home" onClick={()=>{setactiveNav('#home')}} className={activeNav==='#home'?'active':''}><IoIosHome/></a>
             <a href="#about"onClick={()=>{setactiveNav('#about')}} className={activeNav==='#about'?'active':''}><FaUser/></a>
             <a href="#skills" onClick={()=>{setactiveNav('#skills')}} className={activeNav==='#skills'?'active':''}><GiSkills/></a>
