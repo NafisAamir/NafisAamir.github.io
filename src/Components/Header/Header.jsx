@@ -7,7 +7,7 @@ import { HeaderSocials } from './HeaderSocials';
 
 const Header = () => {
     return (
-        <header>
+        <header id='home'>
             <div className='container header__container'>
                 <div className='top-header' >
                 <HeaderSocials />
@@ -28,7 +28,7 @@ const Header = () => {
                     />
                 </div>
 
-                <div style={{ fontSize: "60px" }}>
+                <div style={{ fontSize: "50px",display:"flex",flexDirection:"column",gap:"20px",marginTop:"-20px"}}>
                     <Typewriter
 
                         onInit={(typewriter) => {
@@ -42,7 +42,14 @@ const Header = () => {
                                 .start();
                         }}
                     />
+                    <div >
+                    <div >
+                <h1 style={{fontSize:"20px",width:"600px" }}>Highly passionate and user-focused Web-Developer👨‍💻 from INDIA adept in collaborating with teams or performing individually to plan the technical writing and execution of functional specifications for websites and applications.</h1>
+                
                 </div>
+                </div>
+                </div>
+                
                 </div>
                 </div>
                 

@@ -18,6 +18,7 @@ header{
     display: flex;
     gap: 3rem;
     justify-content: center;
+    margin-top: 25px;
 }
 
 .header__socials{
