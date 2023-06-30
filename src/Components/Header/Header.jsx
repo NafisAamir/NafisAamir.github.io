@@ -16,7 +16,7 @@ const Header = () => {
                     <img src={Nafis} alt='Nafis' />
                 </div>
                 <div className='typewriter' >
-                <div style={{ fontSize: "60px", marginTop:"50px" }}>
+                <div id='user-detail-name' style={{ fontSize: "60px", marginTop:"50px" }}>
                     <Typewriter
                         onInit={(typewriter) => {
                             typewriter
