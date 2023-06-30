@@ -15,10 +15,10 @@ const Nav=()=>{
   <IoIosHome />
 </a>
 
-            <a href="#about"onClick={()=>{setactiveNav('#about')}} className={activeNav==='#about'?'nav-link about active':''}><FaUser/></a>
-            <a href="#skills" onClick={()=>{setactiveNav('#skills')}} className={activeNav==='#skills'?'nav-link skills active':''}><GiSkills/></a>
-            <a href="#projects" onClick={()=>{setactiveNav('#projects')}} className={activeNav==='#projects'?'nav-link projects active':''}><BsFiles/></a>
-            <a href="#contact" onClick={()=>{setactiveNav('#contact')}} className={activeNav==='#contact'?'nav-link contact active':''}><FcBusinessContact/></a>
+            <a href="#about"onClick={()=>{setactiveNav('#about')}} className={activeNav==='#about'?'nav-link about active':'nav-link about'}><FaUser/></a>
+            <a href="#skills" onClick={()=>{setactiveNav('#skills')}} className={activeNav==='#skills'?'nav-link skills active':'nav-link skills'}><GiSkills/></a>
+            <a href="#projects" onClick={()=>{setactiveNav('#projects')}} className={activeNav==='#projects'?'nav-link projects active':'nav-link projects'}><BsFiles/></a>
+            <a href="#contact" onClick={()=>{setactiveNav('#contact')}} className={activeNav==='#contact'?'nav-link contact active':'nav-link contact'}><FcBusinessContact/></a>
         </div>
     )
 }
