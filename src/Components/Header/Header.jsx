@@ -13,7 +13,7 @@ const Header = () => {
                 <HeaderSocials />
                 
                 <div className='nafis'>
-                    <img src={Nafis} alt='Nafis' />
+                    <img className='home-img' src={Nafis} alt='Nafis' />
                 </div>
                 <div className='typewriter' >
                 <div id='user-detail-name' style={{ fontSize: "60px", marginTop:"50px" }}>
