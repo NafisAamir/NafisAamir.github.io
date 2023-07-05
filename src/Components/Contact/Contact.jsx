@@ -2,9 +2,11 @@ import React from 'react'
 import './Contact.css'
 import { AiOutlineMail } from 'react-icons/ai'
 import { SiWhatsapp } from 'react-icons/si'
-import {AiOutlineGithub} from 'react-icons/ai'
+import { AiOutlineGithub } from 'react-icons/ai'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com';
+import { AiOutlineLinkedin, AiOutlineFilePdf } from 'react-icons/ai';
+import CV from '../../resources/MD_NAFIS_AAMIR.pdf'
 
 
 const Contact = () => {
@@ -43,6 +45,19 @@ const Contact = () => {
                         <a href="https://api.whatsapp.com/send?phone+918553136431">Send a message on Whatsapp</a>
                     </article>
 
+                    <article className="contact__option">
+                        <AiOutlineLinkedin className="contact__option-icon" />
+                        <h4>LinkedIn</h4>
+                        <a id="contact-linkedin" href="https://www.linkedin.com/in/md-nafis-aamir-18155914b">Visit LinkedIn</a>
+                    </article>
+
+                    <article className="contact__option">
+                        <AiOutlineFilePdf className="resume__option-icon" />
+                        <h4>Resume</h4>
+                        <a href={CV} id='resume-button-1' className="btn" target="_blank">Download CV</a>
+                    </article>
+
+
                     <article id='contact-phone' className='contact__option'>
                         <h2>My Contact Number</h2>
                         <h2>+91 8553136431</h2>
@@ -58,7 +73,7 @@ const Contact = () => {
 
             </div>
 
-            <div className="copyright" style={{ display: "flex", justifyContent: "center", marginTop: "250px" }}>
+            <div className="copyright" style={{ display: "flex", justifyContent: "center", marginTop: "650px" }}>
                 <a href="https://github.com/NafisAamir">
                     <h1>Designed and built by Md Nafis Aamir{" "}</h1>
                 </a>
