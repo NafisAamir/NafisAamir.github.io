@@ -19,6 +19,10 @@ const Contact = () => {
         emailjs.sendForm('service_tcct3zo', 'template_komf4er', form.current, 'wj6-_GYDfHBzVBfGZ')
         e.target.reset()
     };
+
+    const handleDownload = () => {
+        window.open("https://drive.google.com/file/d/1PuZcBPR99U0LXYEYhTPW1HEq2WBoyHqE/view?usp=sharing", '_blank');
+      };
     return (
         <section className="contact-continer sections" id='contact'>
             <h5>Get in Touch</h5>
@@ -54,7 +58,7 @@ const Contact = () => {
                     <article className="contact__option">
                         <AiOutlineFilePdf className="resume__option-icon" />
                         <h4>Resume</h4>
-                        <a href={CV} id='resume-button-1' className="btn" target="_blank">Download CV</a>
+                        <a onClick={handleDownload} href={CV} download={CV} id='resume-button-1' className="btn" target="_blank">Download CV</a>
                     </article>
 
 
