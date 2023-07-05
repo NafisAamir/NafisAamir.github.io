@@ -4,7 +4,9 @@ import {FaUser} from 'react-icons/fa'
 import {BsFiles} from 'react-icons/bs'
 import {GiSkills} from 'react-icons/gi'
 import {FcBusinessContact} from 'react-icons/fc'
+import {HiDocument} from 'react-icons/hi'
 import { useState } from "react";
+import CV from '../../resources/MD_NAFIS_AAMIR.pdf'
 import './Nav.css'
 
 const Nav=()=>{
@@ -19,6 +21,7 @@ const Nav=()=>{
             <a href="#skills" onClick={()=>{setactiveNav('#skills')}} className={activeNav==='#skills'?'nav-link skills active':'nav-link skills'}><GiSkills/></a>
             <a href="#projects" onClick={()=>{setactiveNav('#projects')}} className={activeNav==='#projects'?'nav-link projects active':'nav-link projects'}><BsFiles/></a>
             <a href="#contact" onClick={()=>{setactiveNav('#contact')}} className={activeNav==='#contact'?'nav-link contact active':'nav-link contact'}><FcBusinessContact/></a>
+            <a href={CV} target="_blank" id='resume-button-1' onClick={()=>{setactiveNav('#resume')}} className={activeNav==='#resume'?'nav-link resume active':'nav-link resume'}><HiDocument/></a>
         </div>
     )
 }

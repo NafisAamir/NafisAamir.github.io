@@ -6,7 +6,7 @@
     display: grid;
     grid-template-columns: repeat(4,1fr);
 }
-.skill__card{
+.skills-card{
     background: transparent(0, 0, 0);
     border: 1px solid transparent;
     border-radius: 2rem;
@@ -16,7 +16,7 @@
     transform: rotate(10deg);
     transition: var(--transition);
 }
-.skill__card:hover{
+.skills-card:hover{
     background: black;
     border-color: var(--color-primary-variant);
     cursor: default;

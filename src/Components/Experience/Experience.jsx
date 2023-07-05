@@ -24,70 +24,70 @@ const Experience=()=>{
             <h2>Skills</h2>
             <h5>The technologies i have been working with recently</h5>
             <div className='container skills__container'>
-            <article className='skill__card'>
+            <article className='skills-card'>
                         <h2>JavaScript</h2>
                         <IoLogoJavascript/>
                     </article>
-                    <article className='skill__card'>
+                    <article className='skills-card'>
                         <h2>React</h2>
                         <DiReact/>
                     </article>
-                    <article className='skill__card'>
+                    <article className='skills-card'>
                         <h2>Redux</h2>
                         <SiRedux/>
                     </article>
-                    <article className='skill__card'>
+                    <article className='skills-card'>
                         <h2>Express</h2>
                         <SiExpress/>
                     </article>
-                    <article className='skill__card'>
+                    <article className='skills-card'>
                         <h2>Node.js</h2>
                         <SiNodedotjs/>
                     </article>
-                    <article className='skill__card'>
+                    <article className='skills-card'>
                         <h2>MongoDb</h2>
                         <SiMongodb/>
                     </article>
-                    <article className='skill__card'>
+                    <article className='skills-card'>
                         <h2>HTML</h2>
                         <SiHtml5/>
                     </article>
-                    <article className='skill__card'>
+                    <article className='skills-card'>
                         <h2>CSS</h2>
                         <SiCss3/>
                     </article>
-                    <article className='skill__card'>
+                    <article className='skills-card'>
                         <h2>Tailwind</h2>
                         <SiTailwindcss/>
                     </article>
-                    <article className='skill__card'>
+                    <article className='skills-card'>
                         <h2>Chakra UI</h2>
                         <SiChakraui/>
                     </article>
-                    <article className='skill__card'>
+                    <article className='skills-card'>
                         <h2>Java</h2>
                         <FaJava/>
                     </article>
-                    <article className='skill__card'>
+                    <article className='skills-card'>
                         <h2>C</h2>
                         <SiCoursera/>
                     </article>
             </div>
             <h5>Tools i have been working with recently</h5>
             <div className='container tools__container'>
-            <article className='skill__card'>
+            <article className='skills-card'>
                         <h2>Postman</h2>
                         <SiPostman/>
                     </article>
-                    <article className='skill__card'>
+                    <article className='skills-card'>
                         <h2>Vs Code</h2>
                         <TbBrandVscode/>
                     </article>
-                    <article className='skill__card'>
+                    <article className='skills-card'>
                         <h2>Git</h2>
                         <AiOutlineGithub/>
                     </article>
-                    <article className='skill__card'>
+                    <article className='skills-card'>
                         <h2>Netlify</h2>
                         <SiNetlify/>
                     </article>
