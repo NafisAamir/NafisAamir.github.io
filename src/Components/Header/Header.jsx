@@ -43,7 +43,7 @@ const Header = () => {
                         }}
                     />
                     <div >
-                    <div id='user-detail-intro' >
+                    <div  >
                 <h1 style={{fontSize:"20px",width:"600px" }}>Highly passionate and user-focused Web-Developer👨‍💻 from INDIA adept in collaborating with teams or performing individually to plan the technical writing and execution of functional specifications for websites and applications.</h1>
                 
                 </div>
