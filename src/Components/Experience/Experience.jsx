@@ -25,52 +25,52 @@ const Experience=()=>{
             <h5>The technologies i have been working with recently</h5>
             <div className='container skills__container'>
             <article className='skills-card'>
-                        <h2 className='skills-card-img'>JavaScript</h2>
-                        <IoLogoJavascript/>
+                        <h2 className='skills-card-name'>JavaScript</h2>
+                        <IoLogoJavascript className='skills-card-img'/>
                     </article>
                     <article className='skills-card'>
                         <h2 className='skills-card-name'>React</h2>
-                        <DiReact/>
+                        <DiReact className='skills-card-img'/>
                     </article>
                     <article className='skills-card'>
-                        <h2>Redux</h2>
-                        <SiRedux/>
+                        <h2 className='skills-card-name'>Redux</h2>
+                        <SiRedux className='skills-card-img'/>
                     </article>
                     <article className='skills-card'>
-                        <h2>Express</h2>
-                        <SiExpress/>
+                        <h2 className='skills-card-name'>Express</h2>
+                        <SiExpress className='skills-card-img'/>
                     </article>
                     <article className='skills-card'>
-                        <h2>Node.js</h2>
-                        <SiNodedotjs/>
+                        <h2 className='skills-card-name'>Node.js</h2>
+                        <SiNodedotjs className='skills-card-img'/>
                     </article>
                     <article className='skills-card'>
-                        <h2>MongoDb</h2>
-                        <SiMongodb/>
+                        <h2 className='skills-card-name'>MongoDb</h2>
+                        <SiMongodb className='skills-card-img'/>
                     </article>
                     <article className='skills-card'>
-                        <h2>HTML</h2>
-                        <SiHtml5/>
+                        <h2 className='skills-card-name'>HTML</h2>
+                        <SiHtml5 className='skills-card-img'/>
                     </article>
                     <article className='skills-card'>
-                        <h2>CSS</h2>
-                        <SiCss3/>
+                        <h2 className='skills-card-name'>CSS</h2>
+                        <SiCss3 className='skills-card-img'/>
                     </article>
                     <article className='skills-card'>
-                        <h2>Tailwind</h2>
-                        <SiTailwindcss/>
+                        <h2 className='skills-card-name'>Tailwind</h2>
+                        <SiTailwindcss className='skills-card-img'/>
                     </article>
                     <article className='skills-card'>
-                        <h2>Chakra UI</h2>
-                        <SiChakraui/>
+                        <h2 className='skills-card-name'>Chakra UI</h2>
+                        <SiChakraui className='skills-card-img'/>
                     </article>
                     <article className='skills-card'>
-                        <h2>Java</h2>
-                        <FaJava/>
+                        <h2 className='skills-card-name'>Java</h2>
+                        <FaJava className='skills-card-img'/>
                     </article>
                     <article className='skills-card'>
-                        <h2>C</h2>
-                        <SiCoursera/>
+                        <h2 className='skills-card-name'>C</h2>
+                        <SiCoursera className='skills-card-img'/>
                     </article>
             </div>
             <h5>Tools i have been working with recently</h5>
