@@ -24,10 +24,10 @@ const Experience=()=>{
             <h2>Skills</h2>
             <h5>The technologies i have been working with recently</h5>
             <div className='container skills__container'>
-            <div className='skills-card'>
+            <article className='skills-card'>
                         <div className='skills-card-name'><IoLogoJavascript className='skills-card-img'/>JavaScript</div>
                         
-                    </div>
+                    </article>
                     <div className='skills-card'>
                         <div className='skills-card-name'><DiReact className='skills-card-img'/>React</div>
                         
