@@ -29,7 +29,7 @@ const Experience=()=>{
                         <IoLogoJavascript/>
                     </article>
                     <article className='skills-card'>
-                        <h2>React</h2>
+                        <h2 className='skills-card-name'>React</h2>
                         <DiReact/>
                     </article>
                     <article className='skills-card'>
