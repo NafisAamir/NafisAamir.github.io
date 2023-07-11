@@ -25,71 +25,71 @@ const Experience=()=>{
             <h5>The technologies i have been working with recently</h5>
             <div className='container skills__container'>
             <div className='skills-card'>
-                        <h2 className='skills-card-name'>JavaScript</h2>
-                        <IoLogoJavascript className='skills-card-img'/>
+                        <div className='skills-card-name'><IoLogoJavascript className='skills-card-img'/>JavaScript</div>
+                        
                     </div>
                     <div className='skills-card'>
-                        <h2 className='skills-card-name'>React</h2>
-                        <DiReact className='skills-card-img'/>
+                        <div className='skills-card-name'><DiReact className='skills-card-img'/>React</div>
+                        
                     </div>
                     <div className='skills-card'>
-                        <h2 className='skills-card-name'>Redux</h2>
-                        <SiRedux className='skills-card-img'/>
+                        <div className='skills-card-name'><SiRedux className='skills-card-img'/>Redux</div>
+                        
                     </div>
                     <div className='skills-card'>
-                        <h2 className='skills-card-name'>Express</h2>
-                        <SiExpress className='skills-card-img'/>
+                        <div className='skills-card-name'><SiExpress className='skills-card-img'/>Express</div>
+                        
                     </div>
                     <div className='skills-card'>
-                        <h2 className='skills-card-name'>Node.js</h2>
-                        <SiNodedotjs className='skills-card-img'/>
+                        <div className='skills-card-name'><SiNodedotjs className='skills-card-img'/>Node.js</div>
+                        
                     </div>
                     <div className='skills-card'>
-                        <h2 className='skills-card-name'>MongoDb</h2>
-                        <SiMongodb className='skills-card-img'/>
+                        <div className='skills-card-name'><SiMongodb className='skills-card-img'/>MongoDb</div>
+                        
                     </div>
                     <div className='skills-card'>
-                        <h2 className='skills-card-name'>HTML</h2>
-                        <SiHtml5 className='skills-card-img'/>
+                        <div className='skills-card-name'><SiHtml5 className='skills-card-img'/>HTML</div>
+                        
                     </div>
                     <div className='skills-card'>
-                        <h2 className='skills-card-name'>CSS</h2>
-                        <SiCss3 className='skills-card-img'/>
+                        <div className='skills-card-name'><SiCss3 className='skills-card-img'/>CSS</div>
+                        
                     </div>
                     <div className='skills-card'>
-                        <h2 className='skills-card-name'>Tailwind</h2>
-                        <SiTailwindcss className='skills-card-img'/>
+                        <div className='skills-card-name'><SiTailwindcss className='skills-card-img'/>Tailwind</div>
+                        
                     </div>
                     <div className='skills-card'>
-                        <h2 className='skills-card-name'>Chakra UI</h2>
-                        <SiChakraui className='skills-card-img'/>
+                        <div className='skills-card-name'><SiChakraui className='skills-card-img'/>Chakra UI</div>
+                        
                     </div>
                     <div className='skills-card'>
-                        <h2 className='skills-card-name'>Java</h2>
-                        <FaJava className='skills-card-img'/>
+                        <div className='skills-card-name'><FaJava className='skills-card-img'/>Java</div>
+                        
                     </div>
                     <div className='skills-card'>
-                        <h2 className='skills-card-name'>C</h2>
-                        <SiCoursera className='skills-card-img'/>
+                        <div className='skills-card-name'><SiCoursera className='skills-card-img'/>C</div>
+                        
                     </div>
             </div>
             <h5>Tools i have been working with recently</h5>
             <div className='container tools__container'>
             <div className='skills-card'>
-                        <h2>Postman</h2>
-                        <SiPostman/>
+                        <div className='skills-card-name'><SiPostman/>Postman</div>
+                        
                     </div>
                     <div className='skills-card'>
-                        <h2>Vs Code</h2>
-                        <TbBrandVscode/>
+                        <div className='skills-card-name'><TbBrandVscode/>Vs Code</div>
+                        
                     </div>
                     <div className='skills-card'>
-                        <h2>Git</h2>
-                        <AiOutlineGithub/>
+                        <div className='skills-card-name'><AiOutlineGithub/>Git</div>
+                        
                     </div>
                     <div className='skills-card'>
-                        <h2>Netlify</h2>
-                        <SiNetlify/>
+                        <div className='skills-card-name'><SiNetlify/>Netlify</div>
+                        
                     </div>
             </div>
         </section>
