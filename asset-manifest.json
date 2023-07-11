@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3a8980a2.css",
-    "main.js": "/static/js/main.cdbb89b9.js",
+    "main.js": "/static/js/main.d0b1788f.js",
     "static/media/blkgif.gif": "/static/media/blkgif.1fe55bff211914abd4aa.gif",
     "static/media/MwendoAfrica.png": "/static/media/MwendoAfrica.2f696963d52ddb382c6e.png",
     "static/media/portfolio.png": "/static/media/portfolio.876dc3669133433a7849.png",
@@ -10,10 +10,10 @@
     "static/media/Nafis.jpeg": "/static/media/Nafis.f50fa4ea5c7b139a9d97.jpeg",
     "index.html": "/index.html",
     "main.3a8980a2.css.map": "/static/css/main.3a8980a2.css.map",
-    "main.cdbb89b9.js.map": "/static/js/main.cdbb89b9.js.map"
+    "main.d0b1788f.js.map": "/static/js/main.d0b1788f.js.map"
   },
   "entrypoints": [
     "static/css/main.3a8980a2.css",
-    "static/js/main.cdbb89b9.js"
+    "static/js/main.d0b1788f.js"
   ]
 }
