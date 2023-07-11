@@ -25,7 +25,7 @@ const Experience=()=>{
             <h5>The technologies i have been working with recently</h5>
             <div className='container skills__container'>
             <article className='skills-card'>
-                        <h2>JavaScript</h2>
+                        <h2 className='skills-card-img'>JavaScript</h2>
                         <IoLogoJavascript/>
                     </article>
                     <article className='skills-card'>
