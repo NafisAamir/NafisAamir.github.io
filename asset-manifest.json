@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.45251654.css",
-    "main.js": "/static/js/main.5b95e29d.js",
-    "static/media/blkgif.gif": "/static/media/blkgif.1fe55bff211914abd4aa.gif",
+    "main.css": "/static/css/main.d6d0b59d.css",
+    "main.js": "/static/js/main.4dea6dd8.js",
+    "static/media/earth.gif": "/static/media/earth.55339bff1832c2d47167.gif",
     "static/media/MwendoAfrica.png": "/static/media/MwendoAfrica.2f696963d52ddb382c6e.png",
-    "static/media/portfolio.png": "/static/media/portfolio.876dc3669133433a7849.png",
+    "static/media/portfolio.png": "/static/media/portfolio.04b938a1f85e423d2401.png",
     "static/media/MD_NAFIS_AAMIR.pdf": "/static/media/MD_NAFIS_AAMIR.6e4925a50c7691b87595.pdf",
     "static/media/KFC.png": "/static/media/KFC.1b6e7442a9d0f1c923ba.png",
-    "static/media/Nafis.jpeg": "/static/media/Nafis.f50fa4ea5c7b139a9d97.jpeg",
+    "static/media/personal.png": "/static/media/personal.f50fa4ea5c7b139a9d97.png",
     "index.html": "/index.html",
-    "main.45251654.css.map": "/static/css/main.45251654.css.map",
-    "main.5b95e29d.js.map": "/static/js/main.5b95e29d.js.map"
+    "main.d6d0b59d.css.map": "/static/css/main.d6d0b59d.css.map",
+    "main.4dea6dd8.js.map": "/static/js/main.4dea6dd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.45251654.css",
-    "static/js/main.5b95e29d.js"
+    "static/css/main.d6d0b59d.css",
+    "static/js/main.4dea6dd8.js"
   ]
 }
