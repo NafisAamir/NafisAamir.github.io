@@ -33,7 +33,7 @@ export default function Contact() {
         <div className="button-container">
           <a
             className="contact-button"
-            href="mailto: bharat.teachief0171@gmail.com"
+            href="mailto: aamirnafis82@gmail.com"
           >
             Send an email
           </a>
@@ -47,7 +47,7 @@ export default function Contact() {
           </a>
         </div>
         <div className="button-container">
-          <a className="contact-button" href="https://api.whatsapp.com/send?phone+918553136431"><SiWhatsapp />Send a message on Whatsapp</a>
+          <a className="contact-button" href="https://api.whatsapp.com/send?phone=+918553136431"><SiWhatsapp />Send a message on Whatsapp</a>
         </div>
 
         <div className="button-container" style={{width:"400px"}}>
