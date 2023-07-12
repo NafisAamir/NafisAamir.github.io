@@ -242,7 +242,7 @@ ham i{
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  height: 125vh;
+  height: 135vh;
   max-height: 800px;
   background-image: url(../src/images/logo/earth.gif);
   /* min-height: 650px; */
