@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.af6b2d5a.css",
+    "main.css": "/static/css/main.448921a7.css",
     "main.js": "/static/js/main.bdc373db.js",
     "static/media/earth.gif": "/static/media/earth.55339bff1832c2d47167.gif",
     "static/media/MwendoAfrica.png": "/static/media/MwendoAfrica.2f696963d52ddb382c6e.png",
@@ -9,11 +9,11 @@
     "static/media/KFC.png": "/static/media/KFC.1b6e7442a9d0f1c923ba.png",
     "static/media/personal.png": "/static/media/personal.f50fa4ea5c7b139a9d97.png",
     "index.html": "/index.html",
-    "main.af6b2d5a.css.map": "/static/css/main.af6b2d5a.css.map",
+    "main.448921a7.css.map": "/static/css/main.448921a7.css.map",
     "main.bdc373db.js.map": "/static/js/main.bdc373db.js.map"
   },
   "entrypoints": [
-    "static/css/main.af6b2d5a.css",
+    "static/css/main.448921a7.css",
     "static/js/main.bdc373db.js"
   ]
 }
