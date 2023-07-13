@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f06992a6.css",
-    "main.js": "/static/js/main.38201ef0.js",
+    "main.css": "/static/css/main.2f99e87e.css",
+    "main.js": "/static/js/main.f794ae01.js",
     "static/media/earth.gif": "/static/media/earth.55339bff1832c2d47167.gif",
     "static/media/MwendoAfrica.png": "/static/media/MwendoAfrica.2f696963d52ddb382c6e.png",
     "static/media/portfolio.png": "/static/media/portfolio.04b938a1f85e423d2401.png",
@@ -9,11 +9,11 @@
     "static/media/KFC.png": "/static/media/KFC.1b6e7442a9d0f1c923ba.png",
     "static/media/personal.png": "/static/media/personal.f50fa4ea5c7b139a9d97.png",
     "index.html": "/index.html",
-    "main.f06992a6.css.map": "/static/css/main.f06992a6.css.map",
-    "main.38201ef0.js.map": "/static/js/main.38201ef0.js.map"
+    "main.2f99e87e.css.map": "/static/css/main.2f99e87e.css.map",
+    "main.f794ae01.js.map": "/static/js/main.f794ae01.js.map"
   },
   "entrypoints": [
-    "static/css/main.f06992a6.css",
-    "static/js/main.38201ef0.js"
+    "static/css/main.2f99e87e.css",
+    "static/js/main.f794ae01.js"
   ]
 }
