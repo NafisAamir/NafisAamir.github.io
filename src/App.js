@@ -12,8 +12,8 @@ import { Skills } from "./components/Skills";
 import { Github } from "./components/Github";
 import React, { useCallback } from 'react';
 import Particles from "react-particles";
-// import { loadFull } from "tsparticles";
-// import particlesOptions from "./particles.json";
+import { loadFull } from "tsparticles";
+import particlesOptions from "./particles.json";
 
 function App() {
   let [boolean, setBoolean] = useState(true);
@@ -21,9 +21,9 @@ function App() {
     setBoolean(!boolean);
   }
 
-//   const particlesInit = useCallback(main => {
-//     loadFull(main);
-// }, [])
+  const particlesInit = useCallback(main => {
+    loadFull(main);
+}, [])
   
   useEffect(() => {
     Aos.init();
@@ -45,7 +45,7 @@ function App() {
         <Contact />
       </div>
       <Footer />
-      {/* <Particles options={particlesOptions} init={particlesInit}/> */}
+      <Particles options={particlesOptions} init={particlesInit}/>
     </div>
   );
 }

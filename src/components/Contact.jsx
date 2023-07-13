@@ -5,6 +5,8 @@ import emailjs from 'emailjs-com';
 import { SiWhatsapp } from 'react-icons/si'
 import { AiOutlineLinkedin } from 'react-icons/ai';
 import { AiOutlineGithub } from 'react-icons/ai'
+import {MdEmail} from "react-icons/md"
+import {AiTwotonePhone} from "react-icons/ai"
 
 export default function Contact() {
 
@@ -37,7 +39,7 @@ export default function Contact() {
             className="contact-button"
             href="mailto: aamirnafis82@gmail.com"
           >
-            Send an email
+           <MdEmail/> Send an email
           </a>
         </div>
         <div id="contact-phone" className="button-container">
@@ -45,7 +47,7 @@ export default function Contact() {
             className="contact-button"
             href="tel:+918553136431"
           >
-            Give a Ring
+            <AiTwotonePhone/>Call Me
           </a>
         </div>
         <div className="button-container">
