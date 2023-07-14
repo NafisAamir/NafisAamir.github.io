@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.93f009ee.css",
+    "main.css": "/static/css/main.fd40252c.css",
     "main.js": "/static/js/main.dada371d.js",
     "static/media/earth.gif": "/static/media/earth.55339bff1832c2d47167.gif",
     "static/media/MwendoAfrica.png": "/static/media/MwendoAfrica.2f696963d52ddb382c6e.png",
@@ -9,11 +9,11 @@
     "static/media/MD_NAFIS_AAMIR.pdf": "/static/media/MD_NAFIS_AAMIR.1dd69b274e2447a97f58.pdf",
     "static/media/KFC.png": "/static/media/KFC.1b6e7442a9d0f1c923ba.png",
     "index.html": "/index.html",
-    "main.93f009ee.css.map": "/static/css/main.93f009ee.css.map",
+    "main.fd40252c.css.map": "/static/css/main.fd40252c.css.map",
     "main.dada371d.js.map": "/static/js/main.dada371d.js.map"
   },
   "entrypoints": [
-    "static/css/main.93f009ee.css",
+    "static/css/main.fd40252c.css",
     "static/js/main.dada371d.js"
   ]
 }
