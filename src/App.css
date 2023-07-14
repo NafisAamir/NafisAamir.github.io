@@ -38,12 +38,7 @@ body {
   color: var(--black);
   overflow-x: hidden;
 }
-/* #skills{
-  background-image: url(../src/images/logo/earth.gif);
-} */
-#about{
-  background-image: url(../src/images/logo/earth.gif);
-}
+
 .cursor{
   display: none;
   width: 50px;
@@ -743,7 +738,7 @@ ul.tech-used li{
 /* Contact */
 #contact{
   min-height: 500px;
-  background-image: url(../src/images/logo/earth.gif);
+  /* background-image: url(../src/images/logo/earth.gif); */
 }
 .flex-center{
   display: flex;

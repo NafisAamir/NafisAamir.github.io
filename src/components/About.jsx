@@ -5,7 +5,7 @@ import AOS from "aos";
 export default function About() {
 
   const handleDownload = () => {
-    window.open("https://drive.google.com/file/d/1PuZcBPR99U0LXYEYhTPW1HEq2WBoyHqE/view?usp=sharing", '_blank');
+    window.open("https://drive.google.com/file/d/1mTq3Ktym2ZoNLQhG3Pglc_bujDtoRvIx/view?usp=sharing", '_blank');
   };
 
   useEffect(() => {
