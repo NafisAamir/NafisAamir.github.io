@@ -472,7 +472,7 @@ ham i{
 
   #about{
     margin-top: 15rem;
-    background-image: url(../src/images/logo/earth.gif);
+    /* background-image: url(../src/images/logo/earth.gif); */
   }
 
   #github-stat{
