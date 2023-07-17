@@ -24,6 +24,16 @@ export default function getProjects() {
       },
       {
         id: 3,
+        projectTitle: "Bewakoof",
+        image:"Bewakoof.png",
+        projectInfo:
+          "It is an online shopping app where users can order trendy clothes with different collections for men,women and kids",
+        techUsed: ["HTML","CSS", "JavaScript"],
+        projectLinkHosted: "https://keen-beijinho-ffb7b1.netlify.app/",
+        projectLinkGithub: "https://github.com/NafisAamir/Bewakoof_Clone",
+      },
+      {
+        id: 4,
         projectTitle: "Portfolio",
         image:"portfolio.png",
         projectInfo:
