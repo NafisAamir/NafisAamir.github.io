@@ -37,6 +37,7 @@ export default function Contact() {
         <div className="button-container">
           <a
             className="contact-button"
+            target="blank"
             href="mailto: aamirnafis82@gmail.com"
           >
            <MdEmail/> Send an email
@@ -45,19 +46,20 @@ export default function Contact() {
         <div id="contact-phone" className="button-container">
           <a
             className="contact-button"
+            target="blank"
             href="tel:+918553136431"
           >
             <AiTwotonePhone/>Call Me
           </a>
         </div>
         <div className="button-container">
-          <a className="contact-button" href="https://api.whatsapp.com/send?phone=+918553136431"><SiWhatsapp />Whatsapp</a>
+          <a className="contact-button" target="blank" href="https://api.whatsapp.com/send?phone=+918553136431"><SiWhatsapp />Whatsapp</a>
         </div>
         <div className="button-container">
-          <a className="contact-button" id="contact-linkedin" href="https://www.linkedin.com/in/md-nafis-aamir-18155914b"><AiOutlineLinkedin />Visit LinkedIn</a>
+          <a className="contact-button" target="blank" id="contact-linkedin" href="https://www.linkedin.com/in/md-nafis-aamir-18155914b"><AiOutlineLinkedin />Visit LinkedIn</a>
         </div>
         <div className='button-container'>
-          <a className="contact-button" href="https://github.com/NafisAamir"> <AiOutlineGithub />Visit GitHub</a>
+          <a className="contact-button" target="blank" href="https://github.com/NafisAamir"> <AiOutlineGithub />Visit GitHub</a>
         </div>
 
         <div className="button-container" style={{ width: "400px" }}>
