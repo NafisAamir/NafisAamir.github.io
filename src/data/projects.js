@@ -9,7 +9,7 @@ export default function getProjects() {
          "This is a travel booking website, MwendoAfrica which is a vehicle booking site which charges as per the time the vehicle has been used. This was a collaborative project of three members which was completed in 7 days of time.",
         techUsed: ["ReactJs", "Redux","Chakra UI", "HTML", "CSS"],
         projectLinkHosted: "https://mwendoafricatravel.netlify.app/",
-        projectLinkGithub: "https://github.com/ARahimLaskar/MwendoAfrica",
+        projectLinkGithub: "https://github.com/NafisAamir/MwendoAfrica",
       },
       {
         img:"",
